@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import BasicLayout from '@ant-design/pro-layout';
 
 ReactDOM.render(
   <React.StrictMode>
